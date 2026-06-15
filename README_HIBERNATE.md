@@ -1,7 +1,4 @@
-Repo para el curso DSY1103 Fullstack I
-
-
-# Guia 1: Conexión a PostgreSQL (NeonTech) con Hibernate/JPA
+# Guía: Conexión a PostgreSQL (NeonTech) con Hibernate/JPA
 
 Esta guía documenta el proceso completo para conectar la aplicación BibliotecaDUOC a una base de datos PostgreSQL en NeonTech usando Hibernate/JPA.
 
